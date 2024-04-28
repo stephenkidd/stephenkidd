@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @stephenkidd
 - 👀 I’m interested in systematic & quantitatice investment strategies
-- 🌱 I’m currently learning Cuda
-- 💞️ I’m looking to collaborate on systematic strategies
-- 📫 How to reach me ... just DM me here
+
 
 
 
