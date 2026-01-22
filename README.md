@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephenkidd
-- 👀 I’m interested in systematic & quantitatice investment strategies
+- 👀 I’m interested in systematic & quantitative investment strategies
 
 
 
